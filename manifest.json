@@ -18,6 +18,16 @@
     }
   ],
   "action": {
-    "default_popup": "popup.html"
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/icon-network-16.png",
+      "48": "images/icon-network-48.png",
+      "100": "images/icon-network-100.png"
+    }
+  },
+  "icons": {
+    "16": "images/icon-network-16.png",
+    "48": "images/icon-network-48.png",
+    "100": "images/icon-network-100.png"
   }
 }
